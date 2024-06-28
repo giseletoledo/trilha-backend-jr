@@ -17,5 +17,10 @@
     "jsonwebtoken": "^9.0.2",
     "sequelize": "^6.37.3",
     "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "eslint": "^9.6.0",
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.2"
   }
 }
