@@ -1,6 +1,6 @@
 # API To-Do List
 
-![]https://github.com/giseletoledo/trilhaBackendJR/blob/main/todoapp/printtelas/get-todos.png
+![](https://github.com/giseletoledo/trilhaBackendJR/blob/main/todoapp/printtelas/get-todos.png)
 
 ## Descrição
 
