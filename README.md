@@ -1,5 +1,7 @@
 # API To-Do List
 
+![]https://github.com/giseletoledo/trilhaBackendJR/blob/main/todoapp/printtelas/get-todos.png
+
 ## Descrição
 
 API para gerenciar uma lista de tarefas, com autenticação de usuários.
@@ -15,6 +17,7 @@ API para gerenciar uma lista de tarefas, com autenticação de usuários.
 | POST   | /todos        | Cria uma nova tarefa                   | Sim          |
 | PUT    | /todos/:id    | Atualiza uma tarefa existente          | Sim          |
 | DELETE | /todos/:id    | Remove uma tarefa                      | Sim          |
+
 
 ## Instruções
 
